@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.Ball{
+    background-color: #eee6e6;
+    width: 100vw;
+    height: 80vh;
+
+}
+.Main > img{
+    position: relative;
+    width: 90vw;
+    opacity: 0.3;
+    margin: 30px;
+    
+}
+.Apple{
+  position: absolute;  
+  bottom: 588px;
+  left:56px;
+}
+.Orange{
+    position: absolute;
+    bottom: 588px;
+    right: 140px;
+}
+.Mango{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+   width:100%;
+ 
+}
+.Grapes{
+    position: absolute;
+    bottom: 175px ;
+    left:56px;
+}
+.Cherry{
+    position: absolute;
+     bottom: 175px;
+    right: 140px;
+}
